@@ -12,9 +12,8 @@ TweetNest is a full-stack web application that allows users to
 
 👤 Follow/Unfollow: Manage user connections from within the app.
 
-<img width="1437" height="755" alt="image" src="https://github.com/user-attachments/assets/bf4b171c-afdf-4451-a771-d62891ebe0d7" />
-<img width="1440" height="757" alt="image" src="https://github.com/user-attachments/assets/46380e63-884b-4de8-8cd2-e66754592d84" />
-
+<img width="1438" height="754" alt="Screenshot 2025-07-12 at 10 27 15" src="https://github.com/user-attachments/assets/1b473380-2ed0-4e43-a103-326c8b26915c" />
+<img width="1440" height="758" alt="Screenshot 2025-07-12 at 10 27 32" src="https://github.com/user-attachments/assets/1a8dbbcc-1ca7-40b6-a63a-1b8c4d30e434" />
 
 ## Languages and Tools
 
